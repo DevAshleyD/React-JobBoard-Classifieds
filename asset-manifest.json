@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-JobBoard/static/css/main.944b14ca.chunk.css",
+    "main.js": "/React-JobBoard/static/js/main.98d770a6.chunk.js",
+    "main.js.map": "/React-JobBoard/static/js/main.98d770a6.chunk.js.map",
+    "runtime-main.js": "/React-JobBoard/static/js/runtime-main.4b2171fc.js",
+    "runtime-main.js.map": "/React-JobBoard/static/js/runtime-main.4b2171fc.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/React-JobBoard/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b73e0eb8.chunk.js": "/React-JobBoard/static/js/2.b73e0eb8.chunk.js",
+    "static/js/2.b73e0eb8.chunk.js.map": "/React-JobBoard/static/js/2.b73e0eb8.chunk.js.map",
+    "index.html": "/React-JobBoard/index.html",
+    "precache-manifest.c8b9a08fac4d8567bce16b1c42780263.js": "/React-JobBoard/precache-manifest.c8b9a08fac4d8567bce16b1c42780263.js",
+    "service-worker.js": "/React-JobBoard/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/React-JobBoard/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.944b14ca.chunk.css.map": "/React-JobBoard/static/css/main.944b14ca.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b2171fc.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b73e0eb8.chunk.js",
+    "static/css/main.944b14ca.chunk.css",
+    "static/js/main.98d770a6.chunk.js"
+  ]
+}
