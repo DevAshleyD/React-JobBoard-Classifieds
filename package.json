@@ -2,7 +2,7 @@
   "name": "jobboard",
   "version": "0.2.0",
   "private": true,
-  "homepage": "https://zero-to-mastery.github.io/ZtM-Job-Board",
+  "homepage": "https://DevAshleyD.github.io/React-JobBoard",
   "dependencies": {
     "google-map-react": "^1.1.4",
     "leaflet": "^1.5.1",
